@@ -1,2 +1,9 @@
 # dart_sendbox
-Изучаю язык dart
+Заметки для себя
+
+## CLI
+### Запуск скрипта
+dart filename.dart
+
+
+
